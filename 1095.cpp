@@ -23,6 +23,6 @@ int main()
 		cout << "Yes" << endl << t - p << endl;
 	else
 		cout << "No" << endl << s1 << endl;
-// 	system("pause");
+	// system("pause");
 	return 0;
 }
